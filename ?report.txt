@@ -1,0 +1,9 @@
+{delete}
+{respond:#logs}
+{&admin}
+A new report has been submitted:
+Time: {time}
+Channel: {channel}
+Reporter: {user}
+Offender: $1
+Offense: $2+
